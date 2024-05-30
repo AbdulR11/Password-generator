@@ -8,9 +8,10 @@ Key Features:
 - User-Friendly Interface: The design is intuitive, with clear instructions and a straightforward process for generating passwords. The visually appealing color scheme and typography enhance readability and user engagement.
 - Custom Fonts: The application uses the "Karla" font from Google Fonts, ensuring a unique and professional look.
 - Cross-Browser Compatibility: The application is compatible with all modern web browsers, ensuring broad accessibility.
-Technologies Used:
 
-HTML: For the structure and content of the web page.
-CSS: For styling the application, including layout, colors, and typography.
-JavaScript: For the logic to generate random passwords and handle user interactions.
+Technologies Used:
+- HTML: For the structure and content of the web page.
+- CSS: For styling the application, including layout, colors, and typography.
+- JavaScript: For the logic to generate random passwords and handle user interactions.
+
 This project aims to help users avoid weak passwords and improve their online security effortlessly. The straightforward functionality makes it an ideal tool for anyone looking to quickly generate secure passwords without hassle.
