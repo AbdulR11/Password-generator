@@ -1,6 +1,8 @@
 # Password Generator
 This project is a web-based Random Password Generator designed to enhance user security by creating strong, random passwords. The application features a clean and modern interface with a focus on usability and simplicity.
 
+Visit the site at https://password-generatorar11.netlify.app/
+
 Key Features:
 
 - Responsive Design: The interface adapts seamlessly to different screen sizes, providing an optimal user experience on both desktop and mobile devices.
